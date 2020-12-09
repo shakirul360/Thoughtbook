@@ -102,7 +102,12 @@ body{
 }
 
 .input h2{
-	color: rgb(68, 58, 4)
+	color: rgb(248, 248, 248);
+	text-shadow: #33383b;
+}
+
+.input h2 a{
+	color: rgba(146, 192, 194, 0.541);
 }
 
 body .results{
@@ -197,6 +202,7 @@ textarea{
 	font-size: 38pt;
 	text-align: center;
 	line-height: 550px;
+	text-decoration: none;
 }
 footer{
 	position: relative;
@@ -213,6 +219,7 @@ footer{
     margin-top: 50px;
     margin-left: 0%;
 	height: 18%;
+	text-decoration: none;
 }
  
 .footer-distributed .footer-left,
@@ -229,11 +236,13 @@ footer{
 .footer-distributed h3{
 	color:   #5383d3;
 	font: normal 36px 'Cookie', cursive;
-	margin: 0;
+	margin: 1%;
+	text-decoration: dashed;
 }
  
 .footer-distributed h3 span{
 	color:  #ffffff;
+	text-decoration: none;
 }
  
  
@@ -363,6 +372,7 @@ footer{
 	.main {
 		line-height: normal;
 		font-size: auto;
+		text-decoration: none;
 	}
  
 }
