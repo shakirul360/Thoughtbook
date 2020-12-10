@@ -32,7 +32,7 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 1vw;
+	font-size: 1vw;
     border-radius:  5px;
 	border-color: rgb(190, 169, 144);
 	margin: auto;
@@ -40,7 +40,7 @@ body{
 	min-width: 9%;
 
 	.topnav left active{
-	text-decoration: none;
+		text-decoration: none;
 	}
 	.topnav button a{
 		text-decoration: none;
